@@ -1,7 +1,7 @@
 > This module is in beta, there will be bugs and many things wrong.
 
 ## Install
-`$ npm install mongo-eco`
+`$ npm install mongo-eco.js`
 ## Use
 ```js
 const MongoEco = require("mongo-eco")
