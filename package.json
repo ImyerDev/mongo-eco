@@ -1,0 +1,27 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "mongo-eco",
+  "version": "1.0.0",
+  "description": "Simple module to make your own economy on Discord.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongoose": "^5.9.29"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/netbios1/mongo-eco"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord.js",
+    "nodejs",
+    "mongodb"
+  ]
+}
